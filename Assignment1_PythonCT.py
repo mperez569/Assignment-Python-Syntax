@@ -34,6 +34,6 @@ print(result)
 init_savings = 5000
 int_rate = 0.04
 
-#amount after a year and a 7% interest rate
+#amount after a year and a 4% interest rate
 f_savings = init_savings + (init_savings * int_rate)
 print(f_savings)
